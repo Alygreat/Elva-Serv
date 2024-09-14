@@ -48,8 +48,9 @@ h3{
 
 .img1 {
   border-radius: 1%;
-  border-color: white;
-  width: 230px;
+  border-color: #DA0463;    /* white;*/
+  width: 190px;
+  height: 180px;
 }
 
 hr{
