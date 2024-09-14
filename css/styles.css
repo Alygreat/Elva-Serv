@@ -46,6 +46,12 @@ h3{
   color: red
 }
 
+label {
+  color:  white; /*#F7F7F8; */
+  font-family: sans-serif;
+  
+}
+
 .img1 {
   border-radius: 1%;
   border-color: #DA0463;    /* white;*/
