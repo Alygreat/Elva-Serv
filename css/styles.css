@@ -24,7 +24,7 @@ border-width: 5px;
 */
 
 h1 {
-  color: /*#3B5998*/ #66BFBF  ;
+  color: /*#3B5998 #66BFBF  */ black;
   font-variant: small-caps;
   font-style: normal;
   font-size: 40px;
@@ -32,12 +32,12 @@ font-family: sans-serif;
 }
 
 h2 {
-  color: white;
+  color: black;
   font-family: serif;
 }
 
 h3{
-  color: white; /* #3B5998 */ /*#66BFBF*/;
+  color: black; /* #3B5998 */ /*#66BFBF*/;
   font-size: 17px;
  /* font-style: oblique; */
   font-family: sans-serif;
