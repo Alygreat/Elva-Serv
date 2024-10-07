@@ -37,14 +37,14 @@ h2 {
 }
 
 h3{
-  color: black; /* #3B5998 */ /*#66BFBF*/;
+  color: white; /* #3B5998 */ /*#66BFBF*/;
   font-size: 17px;
  /* font-style: oblique; */
   font-family: sans-serif;
 }
 
 .avantaje{
-  color: #213555;
+  color:  #F4F6FF; /* #213555;  */
   font-family: sans-serif;
   font-style: bold;
   font-size: 22px;
@@ -158,30 +158,32 @@ a {
 
 .top-container {
 /* background-color: #F7E7DC; */ /*ok#EEEDEB;#E6B9A6; #F5EDED;#F5EDED;#E4F9F5;*/ 
-background-color: #E4F9F5;
+background-color:   #F4F6FF; /* #E4F9F5; */
 
 }
 
 .misiune-container {
-background-color: #E4F9F5;
+background-color:   #F4F6FF;   /* #E4F9F5;  */
 /*    E6B9A6; */
 
 }
 
 .membrii-container {
 
-background-color: #E7F0DC;
+background-color:   #F4F6FF;  /* #E7F0DC;  */
 
  /*background-color: #FFDBAA; */
 }
 
 .imagini-container {
-background-color: #DDDDDD;
+
+  background-color:  #F4F6FF;  /*  #DDDDDD; */
 
 }
 
 .evenimente-container {
-background-color: #C7C8CC;
+
+  background-color:   #F4F6FF;  /* #C7C8CC;  */
 
 }
 
