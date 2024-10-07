@@ -37,14 +37,14 @@ h2 {
 }
 
 h3{
-  color: white; /* #3B5998 */ /*#66BFBF*/;
+  color: #B7B7B7; /* #3B5998 */ /*#66BFBF*/;
   font-size: 17px;
  /* font-style: oblique; */
   font-family: sans-serif;
 }
 
 .avantaje{
-  color:  #F4F6FF; /* #213555;  */
+  color:   #B7B7B7;   /* #F4F6FF;*/ /* #213555;  */
   font-family: sans-serif;
   font-style: bold;
   font-size: 22px;
