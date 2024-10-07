@@ -50,8 +50,12 @@ h3{
   font-size: 22px;
 }
 
+.contact{
+color: white;
+}
 
 .roll{
+  color: white; 
 font-size: 22px;  
 font-style: bold;
 }
