@@ -1,5 +1,5 @@
 body {
-  background-color:    #F4F6FF;  /* #FFFFFF; */
+  background-color:  #B7B7B7; /* #F4F6FF; */ /* #FFFFFF; */
 }
 
 /*#DFDFDE*/
@@ -151,7 +151,7 @@ img {
 
 
 a {
-  color: white ;
+  color:   #B7B7B7; /*  white ; */
   align-items: center;
 
 }
