@@ -89,7 +89,7 @@ hr{
 }
 
 p {
-  color: #66BFBF;
+  color:  #B7B7B7 ; /*  #66BFBF;  */
   font-size: 22px;
 
 }
@@ -107,7 +107,7 @@ h4{
 */
 
 h4{
-  color: white; /* #3B5998 */ /*#66BFBF*/;
+  color:  #B7B7B7; /* white; */  /* #3B5998 */ /*#66BFBF*/;
   font-size: 24px;
  /* font-style: oblique; */
   font-family: sans-serif;
